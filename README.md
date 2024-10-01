@@ -7,15 +7,14 @@ CO-Authos Federico Uboldi, Alessandro Rossi, Niccolò Signorelli
 
 ## Contents
 
-- **Lab 1:** [Brief description of Lab 1]
-- **Lab 2:** [Brief description of Lab 2]
-- **Lab 3:** [Brief description of Lab 2]
-- **Lab 4:** [Brief description of Lab 2]
-- **Lab 5:** [Brief description of Lab 2]
-- **Lab 6:** [Brief description of Lab 2]
+- **Lab 1:** [Calculation of the internal rate of return]
+- **Lab 2:** [Duration, Convexity and Bootstrap of the interest rate curve]
+- **Lab 3:** [Calculation of the efficient portfolio frontier]
+- **Lab 4:** [Implementation of the binomial model]
+- **Lab 5:** [Risk Measures (Value at Risk) and Coherent Risk Measures (Expected Shortfall).]
+- **Lab 6:** [Portfolio Construction]
 
-- **Project 1:** [Brief description of Project 1]
-- **Project 1:** [Brief description of Project 1]
-
+- **Project 1:** []
+- 
 ## Grade
 Overall Score 29.83 out of 30 
