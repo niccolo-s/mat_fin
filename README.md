@@ -14,7 +14,6 @@ CO-Authos Federico Uboldi, Alessandro Rossi, Niccolò Signorelli
 - **Lab 5:** [Risk Measures (Value at Risk) and Coherent Risk Measures (Expected Shortfall).]
 - **Lab 0:** [Portfolio Construction]
 
-- **Project 1:** []
-- 
+- **Project :** [Option Pricing and Risk Analysis] 
 ## Grade
 Overall Score 29.83 out of 30 
