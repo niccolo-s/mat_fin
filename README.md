@@ -12,7 +12,7 @@ CO-Authos Federico Uboldi, Alessandro Rossi, Niccolò Signorelli
 - **Lab 3:** [Calculation of the efficient portfolio frontier]
 - **Lab 4:** [Implementation of the binomial model]
 - **Lab 5:** [Risk Measures (Value at Risk) and Coherent Risk Measures (Expected Shortfall).]
-- **Lab 6:** [Portfolio Construction]
+- **Lab 0:** [Portfolio Construction]
 
 - **Project 1:** []
 - 
