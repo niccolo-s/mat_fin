@@ -1,4 +1,4 @@
-# Mathematical Finance - Labs and Projects - 
+# Mathematical Finance - Labs and Projects
 
 ## Overview
 
