@@ -7,14 +7,12 @@ This repository contains all the labs completed during the **Mathematical Financ
 CO-Authos: Federico Uboldi, Alessandro Rossi, Federico Riva ([@fede-mat](https://github.com/fede-mat)).
 
 ## Contents
-
+- **Lab 0:** [Portfolio Construction]
 - **Lab 1:** [Calculation of the internal rate of return]
 - **Lab 2:** [Duration, Convexity and Bootstrap of the interest rate curve]
 - **Lab 3:** [Calculation of the efficient portfolio frontier]
 - **Lab 4:** [Implementation of the binomial model]
 - **Lab 5:** [Risk Measures (Value at Risk) and Coherent Risk Measures (Expected Shortfall).]
-- **Lab 0:** [Portfolio Construction]
-
 - **Project :** [Option Pricing and Risk Analysis] 
 ## Grade
 Overall Score 29.83 out of 30 
