@@ -4,7 +4,7 @@
 
 This repository contains all the labs completed during the **Mathematical Finance I** course at **Politecnico di Milano (PoliMi)**. The content spans a variety of topics in quantitative finance, focusing on mathematical models, pricing strategies, and financial simulations.
 
-Authors: Federico Uboldi, Alessandro Rossi, Federico Riva ([@fede-mat](https://github.com/fede-mat)), Niccolò Signorelli [niccolo-s](https://github.com/niccolo-s).
+Authors: Federico Uboldi, Alessandro Rossi, Federico Riva ([@fede-mat](https://github.com/fede-mat)), Niccolò Signorelli ([niccolo-s](https://github.com/niccolo-s)).
 
 ## Contents
 - **Lab 0:** [Portfolio Construction]
